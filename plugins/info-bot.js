@@ -5,7 +5,7 @@ handler.all = async function(m) {
 const chat = global.db.data.chats[m.chat];
 if (chat.isBaneed) return
 /* if (/^bot$/i.test(m.text)) {
-conn.reply(m.chat, `🌠 ¡Hola! Soy crisj.Bot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
+conn.reply(m.chat, `🌠 ¡Hola! Soy LancelotBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
 }
 */
 /*if (/^que|q$/i.test(m.text)) {
@@ -45,7 +45,7 @@ conn.reply(m.chat, `*Tu Mamá we 🍆🥵*`, m, rcanal, )
 }
 
 if (/^Crisjm$/i.test(m.text)) {
-conn.reply(m.chat, `*Hola Eres Fan De* *CrisjmBot o Brawl Stars*
+conn.reply(m.chat, `*Hola Eres Fan De* *LancelotBot o Brawl Stars*
 *Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i\n\n*O Puedes Ir Al Sitio Web Oficial De CrisjmBot!*\n> https://crowbot-web.vercel.app/\n\n*Gracias por utilizar CrisjmBot-MF* `, m, rcanal, )
 }
 
