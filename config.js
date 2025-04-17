@@ -11,11 +11,11 @@ import moment from 'moment-timezone'
 // Staff De CrowBot
 global.owner = [
    ['51941658192', 'Creador Gabriel💛', true],
-   ['5212731595017', 'CrowBot Soporte', true],
-   ['584148256527', 'Dev Diomar', true],
-   ['584120346669', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
-   ['584241836217', 'Dev Prak', true],
-   ['51968382008', 'Dev Darkcore', true],
+   ['51920227615', '♰ÄŅĠËĻÏȚȞÖ⚔Ö₣ÏĊÏÄĻ♰', true],
+   ['', 'Dev Diomar', true],
+   ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
+   ['', 'Dev Prak', true],
+   ['', 'Dev Darkcore', true],
 ]
 
 global.creadorbot = [
@@ -25,20 +25,20 @@ global.creadorbot = [
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['50368471855', '51920227615', '5219831715910', '573007796996', '50488198573', '51991055096', '5212731590195', '50557865603', '595975677765']
+global.mods = ['']
 
-global.prems = ['573215751237']
+global.prems = ['']
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【✧】𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐌.𝐅 ❖'
-global.botname = '(✦◠‿◠)𝑪𝒓𝒐𝒘𝑩𝒐𝒕-𝑴𝑭'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ 𝑪𝒓𝒐𝒘𝑩𝒐𝒕 - 𝑴.𝑭 ୭'
+global.packname = '【✧】xcrisjm❖'
+global.botname = '✦xcrisjm'
+global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ xcrisjm୭'
 global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 Gabriel𓆪'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ-𝖿᥆rᥴᥱ'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ Gabriel'
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.namebot = 'ᥴr᥆ᥕᑲ᥆𝗍 s𝗍'
-global.textbot = `「 🔱 hayabusabot- 𝐌𝐅 🔱 」`
+global.namebot = 'xcrisjm'
+global.textbot = `「 🔱 hayabusabot 🔱 」`
 global.vs = '2.2.0'
 global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
 
@@ -61,7 +61,7 @@ global.channel = 'https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W'
 global.insta = 'https://www.instagram.com/crowbot-wa'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫】🎩', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫༆ᴺᵉˣᵘˢ乂ᴛᴇᴀᴍ숬 乂 ✫】', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
