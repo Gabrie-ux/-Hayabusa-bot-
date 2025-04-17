@@ -21,6 +21,6 @@ throw `*🚨 Lo sentimos, ha ocurrido un error 😔*`;
 }
 handler.tags = ['tools'];
 handler.help = ['crowai'];
-handler.command = ['crowai'];
+handler.command = ['crisai'];
 
 export default handler;
