@@ -7,12 +7,12 @@ const handler = async (m, { conn }) => {
 
     // Una Verificación Ya Que No Funcionó La Mrd xD
     if (new Date().getTime() - global.db.data.users[m.sender].lastclaim < tenDaysInMillis) {
-        return conn.reply(m.chat, `*Ya Has Reclamado El Regalo De CrisjmBot💛, Vuelve En ${msToTime(time - new Date().getTime())}*`, m);
+        return conn.reply(m.chat, `*Ya Has Reclamado El Regalo De LancelotBot💛, Vuelve En ${msToTime(time - new Date().getTime())}*`, m);
     }
 
     const user = global.db.data.users[m.sender];
     
-    conn.sendMessage(m.chat, {text: `🎩 *@${m.sender.split('@')[0]} CrisjmBot Te Ha Regalado:*\n> 🌟 500 Estrellas\n> 💶 400 Experiencia\n> 🪙 200 CrowCoins`, mentions: [m.sender]}, {quoted: fkontak});
+    conn.sendMessage(m.chat, {text: `🎩 *@${m.sender.split('@')[0]} LancelotTe Ha Regalado:*\n> 🌟 500 Estrellas\n> 💶 400 Experiencia\n> 🪙 200 LancelotCoins`, mentions: [m.sender]}, {quoted: fkontak});
 
     // Aquí La Moneda Crisjm Es Estrellas, Ustedes La Pueden Cambiar Por Los Datos De las monedas de sus bots pijes
     user.money += 200;
