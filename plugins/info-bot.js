@@ -74,7 +74,7 @@ conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 █║║██║║██║║██║║██║║█
 ✧･ﾟ: *✧･Atte.
 
-☆ ፝͜★ৡ͜͡✞ *CrisjmBot* ➵͡☠️⃪̸ੵ᷒ᰰ↱
+☆ ፝͜★ৡ͜͡✞ *LancelotBot* ➵͡☠️⃪̸ੵ᷒ᰰ↱
 
 ✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*`, m, rcanal, )
 }
