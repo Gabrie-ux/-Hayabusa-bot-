@@ -40,7 +40,7 @@ ___
 
 ![Menu Secundario](https://files.catbox.moe/ugr9af.jpg)
 
-> Enlaces Oficiales De CrowBot
+> Enlaces Oficiales De LancelotBot
 
 ### **`🔗 OBTEN LOS ENLACES`**
 
@@ -98,7 +98,7 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/50557865603)
+- **Propietario:** [`Aquí`](https:/Wa.me/51941658192)
 - **Github:** [`Aqui`](https://github.com/WillZek)
 - **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
 - **Correo:** [`Aqui`](ninopina10@gmail.com)
@@ -114,7 +114,7 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 > **CrowBot No Recibe Mucho Mantenimiento En Termux**
 
 > [!TIP]
-> **Puedes Utilizar Servidores Para Instalar A CrowBot o Compra Tu [Token](https://crow-bot-dashboard.vercel.app/) En La Pagina Oficial De CrowBot!**
+> **Puedes Utilizar Servidores Para Instalar A Lancelot o Compra Tu [Token](https://crow-bot-dashboard.vercel.app/) En La Pagina Oficial De CrowBot!**
 
 
 #### **`🌠 Click en la imagen para obtener termux`**
@@ -234,4 +234,4 @@ href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" widt
 
 </details>
 
-> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ𝖿᥆rᥴᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029VaxkClI1NCrW4BX5rn3g)**
+> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ Lancelot ❀](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i)**
