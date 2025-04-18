@@ -36,7 +36,7 @@ else return m.reply(`《★》 El url es incorrecto`)
 console.error(e)
 if (!stiker) stiker = e
 } finally {
-if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: '🎩𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐒𝐭𝐢𝐜𝐤𝐞𝐫✨', body: `CrowBot - ST ${emojis}`, mediaType: 2, sourceUrl: grupo, thumbnail: icons}}}, { quoted: m })
+if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: '🎩Lancelot - 𝐒𝐭𝐢𝐜𝐤𝐞𝐫✨', body: `LancelotBot - ST ${emojis}`, mediaType: 2, sourceUrl: grupo, thumbnail: icons}}}, { quoted: m })
 
 else return conn.reply(m.chat, `《★》𝙍𝙚𝙨𝙥𝙤𝙣𝙙𝙚 𝘼 𝙐𝙣𝙖 𝙄𝙢𝙖𝙜𝙚𝙣/𝙫𝙞́𝙙𝙚𝙤/𝙜𝙞𝙛 𝙥𝙖𝙧𝙖 𝙘𝙧𝙚𝙖𝙧 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧.`, m, fake)
 
