@@ -519,7 +519,7 @@ group: '《★》Esta funcion solo puede ser ejecutada en grupos.',
 private: '《★》Esta función solo puede ser usada en chat privado.', 
 admin: '《★》Este comando solo puede ser usado por admins.', 
 botAdmin: '《★》Para usar esta función debo ser admin.',
-unreg: `《★》No te encuentras registrado, registrese para usar esta función\n*/reg nombre.edad*\n\n*Ejemplo* : */reg Crow.18*`,
+unreg: `《★》No te encuentras registrado, registrese para usar esta función\n*/reg nombre.edad*\n\n*Ejemplo* : */reg Lancelot.18*`,
 restrict: '《★》Esta característica esta desactivada.'
 }[type];
 if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('✖️'))}
