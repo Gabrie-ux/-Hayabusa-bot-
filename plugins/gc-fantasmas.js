@@ -1,7 +1,7 @@
 /* 
 - Código Mejorado Por WillZek 🗿🍷
 - Etiqueta A Los Inactivos En Los Grupos De WhatsApp💫
-- https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W
+- https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i
 */
 let handler = async (m, { conn, text, participants }) => {
 let member = participants.map(u => u.id)
