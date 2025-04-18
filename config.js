@@ -12,7 +12,7 @@ import moment from 'moment-timezone'
 global.owner = [
    ['51941658192', 'Creador Gabriel💛', true],
    ['51920227615', '♰ÄŅĠËĻÏȚȞÖ⚔Ö₣ÏĊÏÄĻ♰', true],
-   ['', 'Dev Diomar', true],
+   ['50557333744', 'JonathanG', true],
    ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['', 'Dev Prak', true],
    ['', 'Dev Darkcore', true],
