@@ -13,7 +13,7 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 ___
 
 
-## 💛 **`C R O W - B O T`**    
+## 💛 **`L A N C E L O T  - B O T`**    
 
 ![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
 
@@ -21,7 +21,7 @@ ___
 
 <a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=CrowBot&repo=CrowBot-ST&description=Hola+Soy+CrowBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ WillZek+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ Gabriel+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
 
 
 <!-- RAINBOW LINE BOT -->
@@ -49,7 +49,7 @@ ___
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W) |
+| **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i) |
 | **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx) |
 | **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B85dNp4WfzsDeDz8OFgvhx) |
 | **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://crowbot-web.vercel.app/) |
