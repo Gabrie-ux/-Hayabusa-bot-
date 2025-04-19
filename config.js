@@ -20,6 +20,7 @@ global.owner = [
 
 global.creadorbot = [
    ['51941658192', 'Gabriel', true],
+   ['5216633900512', 'ʙʀᴀʏᴀɴᴏғᴄ', true],
 ]
   
 
