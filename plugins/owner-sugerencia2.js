@@ -9,7 +9,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 > ${text}`
 
     const channelChatId = '120363419364337473@newsletter';
-    const creatorsChatId = "50557865603"; 
+    const creatorsChatId = "51941658192"; 
     await conn.reply(channelChatId, m.quoted ? teks + m.quoted.text : teks, m, { mentions: conn.parseMention(teks) })
     await conn.reply(creatorsChatId, teks, m, { mentions: conn.parseMention(teks) })
 
