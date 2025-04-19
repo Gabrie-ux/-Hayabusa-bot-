@@ -19,7 +19,7 @@ let responde = await fetch(api);
 let json = await responde.json();
 let crow = json.result;
 
-let txt = `*Enviando Resultados*\n> Powered By CrowBot`;
+let txt = `*Enviando Resultados*\n> Powered By LancelotBot`;
 let resul = `*Título:* ${crow.title}`;
 let img = crow.image;
 let vid = crow.files.low;
