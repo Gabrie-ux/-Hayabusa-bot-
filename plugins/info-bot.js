@@ -46,7 +46,7 @@ conn.reply(m.chat, `*Tu Mamá we 🍆🥵*`, m, rcanal, )
 
 if (/^Crisjm$/i.test(m.text)) {
 conn.reply(m.chat, `*Hola Eres Fan De* *LancelotBot o Brawl Stars*
-*Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i\n\n*O Puedes Ir Al Sitio Web Oficial De CrisjmBot!*\n> https://crowbot-web.vercel.app/\n\n*Gracias por utilizar CrisjmBot-MF* `, m, rcanal, )
+*Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i\n\n*O Puedes Ir Al Sitio Web Oficial De LancelotBot!*\n> https://Lancelot-web.vercel.app/\n\n*Gracias por utilizar LancelotBot-MF* `, m, rcanal, )
 }
 
 if (/^reglasgp|.reglasgp$/i.test(m.text)) {
