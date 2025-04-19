@@ -32,7 +32,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/50557865603'
+global.creador = 'Wa.me/51941658192'
 global.botreal = `${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}`
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/50557865603'
@@ -42,7 +42,7 @@ global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de CrowBot
+//Emojis determinado de LancelotBot
 global.emoji = '🚩'
 global.emoji2 = '💛'
 global.emoji3 = '🌠'
@@ -88,7 +88,7 @@ global.packsticker = `┊ 🔱 ᴛᴇᴀᴍ ᴍᴏᴏɴ ғᴏʀᴄᴇ\n↳https:
 //Fakes
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=50557865603:50557865603\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363377595441592@newsletter', newsletterName: "ᰔᩚ . ˚ Cһᥲᥒᥒᥱᥣ 〢Tᥱᥲm M᥆᥆ᥒ F᥆rᥴᥱ  ֹ ☆˒˒", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363419364337473@newsletter', newsletterName: "ᰔᩚ . ˚ Cһᥲᥒᥒᥱᥣ 〢Tᥱᥲm M᥆᥆ᥒ F᥆rᥴᥱ  ֹ ☆˒˒", serverMessageId: -1 }
 }}, { quoted: m }
 
 //Id Channel
