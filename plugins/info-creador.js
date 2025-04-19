@@ -34,7 +34,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
         quoted: m
     });
 
-    let txt = `👋 *Hola \`${username}\` este es*\n*el contacto de mi creador*`;
+    let txt = `👅 *Hola \`${username}\` este es*\n*el contacto de mi creador*`;
 
     await conn.sendMessage(m.chat, { text: txt });
 };
