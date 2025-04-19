@@ -82,7 +82,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
                 containsAutoReply: true,
                 showAdAttribution: true,
                 mediaType: 1, 
-                thumbnailUrl: 'https://i.ibb.co/GMTyKcN/file.jpg' }}}, {quoted: m})
+                thumbnailUrl: 'https://files.catbox.moe/lk3oy8.jpg' }}}, {quoted: m})
 */
 
 let chtxt = `👤 *𝚄𝚜𝚎𝚛* » ${m.pushName || 'Anónimo'}
