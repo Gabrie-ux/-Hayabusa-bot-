@@ -38,7 +38,7 @@ ___
 
 ### **`🎩 INFORMACION IMPORTANTE`**
 
-![Menu Secundario](https://files.catbox.moe/ugr9af.jpg)
+![Menu Secundario](https://files.catbox.moe/lk3oy8.jpg/ugr9af.jpg)
 
 > Enlaces Oficiales De LancelotBot
 
