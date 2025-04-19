@@ -56,7 +56,7 @@ global.wait = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁�
 //Enlaces
 var facebook = 'https://www.facebook.com/profile.php?id=61574203539793'  
 var github = 'https://github.com/WillZek/CrowBot-ST' 
-var web = 'https://crowbot-web.vercel.app/' 
+var web = 'https://Lancelot-web.vercel.app/' 
 let instagram = 'https://www.instagram.com/crowbot_wa'
 
 global.redes = [facebook, github, web, instagram].getRandom()
