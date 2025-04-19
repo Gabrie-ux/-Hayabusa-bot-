@@ -52,7 +52,7 @@ ___
 | **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i) |
 | **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx) |
 | **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B85dNp4WfzsDeDz8OFgvhx) |
-| **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://crowbot-web.vercel.app/) |
+| **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://Lancelotbot-web.vercel.app/) |
 | **Terminos** | 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐃𝐞𝐥𝐚 𝐖𝐞𝐛 | [¡Click Aquí!](https://github.com/WillZek/WillZek/blob/main/TyCW.md) |
 
 </details>
