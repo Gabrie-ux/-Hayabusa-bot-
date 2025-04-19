@@ -53,7 +53,7 @@ global.catalogo = fs.readFileSync('./media/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 global.repobot = 'https://github.com/WillZek/CrowBot-ST'
-global.grupo = 'https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx'
+global.grupo = 'https://chat.whatsapp.com/FXfqUbu6mPjFN7pWM26eOC'
 global.gteam = 'https://chat.whatsapp.com/EpkR7XS0hrMDYk89yw57HZ'
 global.gsupport = 'https://chat.whatsapp.com/K5GLB5CXp3iAl4XsDzav1W'
 global.comu = 'https://chat.whatsapp.com/Bgfb6Ag13BDCvwzOtldlCm'
