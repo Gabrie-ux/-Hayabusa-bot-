@@ -56,7 +56,7 @@ global.repobot = 'https://github.com/WillZek/CrowBot-ST'
 global.grupo = 'https://chat.whatsapp.com/FXfqUbu6mPjFN7pWM26eOC'
 global.gteam = 'https://chat.whatsapp.com/EpkR7XS0hrMDYk89yw57HZ'
 global.gsupport = 'https://chat.whatsapp.com/Emd4POcAPWGKOY4yghcowf'
-global.comu = 'https://chat.whatsapp.com/Bgfb6Ag13BDCvwzOtldlCm'
+global.comu = 'https://chat.whatsapp.com/KC7H7e9bC1x3BjZ7pJ6xwN'
 global.channel = 'https://whatsapp.com/channel/0029Vb5mi8y3wtb4XeFy8i2i'
 global.insta = 'https://www.instagram.com/Lancelotbot-wa'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
