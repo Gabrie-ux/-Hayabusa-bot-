@@ -21,7 +21,7 @@ let grupos = `╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈≫\n\n☕�
 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈≫`
 
-let img = 'https://i.ibb.co/nMPrKxD4/file.jpg';
+let img = 'https://files.catbox.moe/86mo8h.png';
 
 conn.sendMessage(m.chat, { image: { url: img }, caption: grupos }, { quoted: m });
 }
