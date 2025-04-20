@@ -22,7 +22,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
         contextInfo: {
             externalAdReply: {
                 showAdAttribution: true,
-                title: 'һ᥆ᥣᥲ s᥆ᥡ ɢᴀʙʀɪᴇʟ-ᴏғᴄ ᥱᥣ peor creador de bots',
+                title: 'һ᥆ᥣᥲ s᥆ᥡ ɢᴀʙʀɪᴇʟ-ᴏғᴄ ᥱᥣ más pingon de bots',
                 body: dev,
                 thumbnailUrl: 'https://i.ibb.co/4Zg31Wsc/file.jpg',
                 sourceUrl: 'https://github.com/WillZek',
