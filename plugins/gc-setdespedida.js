@@ -6,7 +6,7 @@
 
 let handler = async (m, { conn, text, isRowner }) => {
   if (!text) {
-    return m.reply('🍭 Ingresa Un Mensaje Para La Despedida!\n> Ejemplo: `.setdespedida ¡Se fue😹!`');
+    return m.reply('🍭 Ingresa Un Mensaje Para La Despedida!\n> Ejemplo: `.setdespedida ¡Se fue espero que vuelvas pronto 😸!`');
   }
 
   const despMessage = text.trim();
