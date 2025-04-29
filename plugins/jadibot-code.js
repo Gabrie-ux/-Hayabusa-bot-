@@ -92,7 +92,7 @@ if (!bot.jadibotmd) return m.reply('💛 Este Comando Se Encuentra Desactivado P
             txt += `│  ❀  *2* : Toque dispositivos vinculados\n`
             txt += `│  ❀  *3* : Selecciona *Vincular con el número de teléfono*\n` 
             txt += `└  ❀  *4* : Escriba el Codigo\n\n`
-            txt += `*❖ Nota:* Este Código solo funciona en el número en el que se solicitó.`;
+            txt += `*❖ Nota:* Este Código solo funciona en el número en el que se solicitó si te dice eror pon delsesion.`;
         await parent.reply(m.chat, txt, m);
         await parent.reply(m.chat, codeBot, m);
         rl.close();
