@@ -93,7 +93,7 @@ ___
 <p>
 
 <a
-href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
+href="https://wa.me/+51941668192?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
 
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
