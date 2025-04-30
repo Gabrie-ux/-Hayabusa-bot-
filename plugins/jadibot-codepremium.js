@@ -37,7 +37,7 @@ let rtx2 = `┌  🜲  *Usa este Código para convertirte en un Sub Bot*\n`
     rtx2 += `│  ❀  *2* : Toque dispositivos vinculados\n`
     rtx2 += `│  ❀  *3* : Selecciona *Vincular con el número de teléfono*\n` 
     rtx2 += `└  ❀  *4* : Escriba el Codigo\n\n`
-    rtx2 += `*❖ Nota:* Este Código solo funciona en el número en el que se solicitó.`;
+    rtx2 += `*❖ Nota:* Este Código solo funciona en el número en el que se solicitó si te dice error pon delsesion gracias.`;
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
