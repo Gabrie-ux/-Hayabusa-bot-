@@ -21,7 +21,7 @@ const handler = async (m, {isPrems, conn}) => {
 
 ╭━〔 ${global.namebot} 〕⬣
 ┃ *${dia} Estrellas* 🌟
-┃ *${ai} CrowCoins* 🪙
+┃ *${ai} LancelotCoins* 🪙
 ┃ *${expp} Exp* ⚡
 ╰━━━━━━━━━━━━⬣`;
 
