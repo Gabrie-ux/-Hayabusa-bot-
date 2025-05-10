@@ -35,14 +35,14 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 global.creador = 'Wa.me/51941658192'
 global.botreal = `${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}`
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/50557865603'
+global.asistencia = 'Wa.me/51964351354'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de LancelotBot
+//Emojis determinado de KatsuraBot
 global.emoji = '🚀'
 global.emoji2 = '⭐'
 global.emoji3 = '🌠'
@@ -83,7 +83,7 @@ global.readMore = more.repeat(850)
 
 global.authsticker = `┊🤖 Bot Ofc\n┊↳ ${wm}\n\n┊👑 Usuario\n┊↳ @${conn.getName(m.sender)}\n`;
 
-global.packsticker = `┊ 🔱 ᴛᴇᴀᴍ ᴍᴏᴏɴ ғᴏʀᴄᴇ\n↳https://Lancelot-web.vercel.app/\n\n┊ 🎩 ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴏғᴄ\n↳https://github.com/Gabriel/LancelotBot-ST`
+global.packsticker = `┊ 🔱 ᴛᴇᴀᴍ ᴍᴏᴏɴ ғᴏʀᴄᴇ\n↳https://Katsura-web.vercel.app/\n\n┊ 🎩 ɪɴғᴏʀᴍᴀᴄɪᴏɴ ᴏғᴄ\n↳https://github.com/Gabriel/KatsuraBot-ST`
 
 //Fakes
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=50557865603:50557865603\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
