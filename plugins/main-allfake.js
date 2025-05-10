@@ -34,7 +34,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //creador y otros
 global.creador = 'Wa.me/51941658192'
 global.botreal = `${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}`
-global.ofcbot = `${conn.user.jid.split('@')[0]}`
+global.ofcbot = 'wa.me/1(332)261-8577' `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/51964351354'
 
 //Reacciones De Comandos.!
