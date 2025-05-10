@@ -25,7 +25,7 @@ if (args.length < 1) return conn.reply(m.chat, '🚩 Ingresa la cantidad de ' + 
 if (user.estrellas >= count * 1) {
 user.estrellas -= count * 1
 if (Aku > Kamu) {
-conn.reply(m.chat, '`🌸 Veamos que numeros tienen!`\n\n'+ `➠ *CrowBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *PERDISTE* ${formatNumber(count)} 🌟 Estrellas`.trim(), m, rcanal)
+conn.reply(m.chat, '`🌸 Veamos que numeros tienen!`\n\n'+ `➠ *Katsura Bot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *PERDISTE* ${formatNumber(count)} 🌟 Estrellas`.trim(), m, rcanal)
 } else if (Aku < Kamu) {
 user.estrellas += count * 2
 conn.reply(m.chat, '`🌸 Veamos que numeros tienen!`\n\n'+ `➠ *CrowBot* : ${Aku}\n➠ *${username}* : ${Kamu}\n\n> ${username}, *GANASTE* ${formatNumber(count * 2)} 🌟 Estrellas`.trim(), m, rcanal)
