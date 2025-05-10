@@ -23,7 +23,7 @@ let tags = {
   'logos': '「EDICION LOGOS」🍨', 
 }
 
-const vid = 'https://files.catbox.moe/073j9c.mp4';
+const vid = 'https://files.catbox.moe/raml6c.mp4';
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
