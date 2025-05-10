@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
-  'crow': '👑「 *`MENUS XLancelobot`* 」👑',
+  'KATASURA': '👑「 *`MENUS XKATSURAbot`* 」👑',
   'main': '「INFO」🍨',
   'buscador': '「BUSQUEDAS」🍨',
   'fun': '「JUEGOS」🍨',
@@ -31,8 +31,8 @@ const defaultMenu = {
 "「💛」 ¡Hola! *%name* %greeting, Para Ver Tu Perfil Usa *#perfil* ❒"
 
 ╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐁𝐎𝐓⊰*
-✦  👤 *Cliente:* %name
-✦  🔱 *Modo:* Público
+✦  🍫 *Cliente:* %name
+✦  🚀 *Modo:* Público
 ✧  ✨ *Baileys:* Multi Device
 ✦  🪐 *Tiempo Activo:* %muptime
 ✧  💫 *Usuarios:* %totalreg 
