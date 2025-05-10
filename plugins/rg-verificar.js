@@ -43,7 +43,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     
     let sn = createHash('md5').update(m.sender).digest('hex')
     let regbot = `┏━━━━━━━━━━━━━━━━━━⬣
-┃⋄ *🎩 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 - LANCELOT*
+┃⋄ *🎩 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 - Katsura*
 ┗━━━━━━━━━━━━━━━━━━⬣\n`
     regbot += `•✩.･*:｡≻──── ⋆♡⋆ ────.•*:｡✩•\n`
     regbot += `*「💛」𝐍𝐨𝐦𝐛𝐫𝐞:* ${name}\n`
@@ -51,7 +51,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     regbot += `•✩.･*:｡≻──── ⋆♡⋆ ────.•*:｡✩•\n`
     regbot += `*「🎀」𝐑𝐞𝐜𝐨𝐦𝐩𝐞𝐧𝐬𝐚𝐬:*\n> `
     regbot += `• 15 Estrellas 🌟\n> `
-    regbot += `• 5 LancelotCoins 🪙\n> `
+    regbot += `• 5 KatsuraCoins 🪙\n> `
     regbot += `• 245 Experiencia 💸\n> `
     regbot += `• 12 Tokens 💰\n`
     regbot += `꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷\n> `
