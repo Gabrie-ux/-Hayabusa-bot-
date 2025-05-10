@@ -25,7 +25,7 @@ var handler = async (m, { conn, isPrems }) => {
 Recursos:
 ✨ Xp : *+${isPrems ? exppremium : exp}*
 💎 Diamantes : *+${d}*
-🪙 LancelotCoins : *+${coin}*`, m);
+🪙 KatsuraCoins : *+${coin}*`, m);
 
     // Actualizar el tiempo de última reclamación
     global.db.data.users[m.sender].lastclaim = new Date * 1;
