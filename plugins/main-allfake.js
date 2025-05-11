@@ -88,12 +88,12 @@ global.packsticker = `┊ 🔱 ᴛᴇᴀᴍ ᴍᴏᴏɴ ғᴏʀᴄᴇ\n↳https:
 //Fakes
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=51964351354:51964351354\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363416506023663@newsletter', newsletterName: "ᰔᩚ . ˚ Cһᥲᥒᥒᥱᥣ 〢Tᥱam Katsura test  ֹ ☆˒˒", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363420730325289@newsletter', newsletterName: "ᰔᩚ . ˚ Cһᥲᥒᥒᥱᥣ 〢Tᥱam Katsura test  ֹ ☆˒˒", serverMessageId: -1 }
 }}, { quoted: m }
 
 //Id Channel
 global.idchannel ='120363416506023663@newsletter'
-global.canalIdM = ["120363416506023663@newsletter", "120363416506023663@newsletter"]
+global.canalIdM = ["120363416506023663@newsletter", "120363420730325289@newsletter"]
 global.canalNombreM = ["✯ Katsura𝐁𝐨𝐭 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✯", "⏤͟͟͞͞☆ Katsura𝐁𝐨𝐭 𝐓𝐞𝐬𝐭 『𝐏𝐨𝐝𝐜𝐚𝐬𝐭』"]
 global.channelRD = await getRandomChannel()
 
