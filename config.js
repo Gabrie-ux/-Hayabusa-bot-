@@ -10,7 +10,7 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 // Staff De LancelotBot
 global.owner = [
-   ['+51964351354', 'Creador Gabriel💛', true],
+   ['51941247696', 'Creador Gabriel💛', true],
    ['51920227615', '♰ÄŅĠËĻÏȚȞÖ⚔Ö₣ÏĊÏÄĻ♰', true],
    ['50557333744', 'JonathanG', true],
    ['', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
